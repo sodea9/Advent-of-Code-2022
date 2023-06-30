@@ -1,0 +1,38 @@
+1677387636647	geckodriver	INFO	Listening on 127.0.0.1:52662
+1677387639712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\seanl\\AppData\\Local\\Temp\\rust_mozprofilekHJCUe"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677387640153	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677387640165	Marionette	INFO	Listening on port 52670
+WebDriver BiDi listening on ws://127.0.0.1:52663
+Read port: 52670
+1677387640431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\seanl\\AppData\\Local\\Temp\\rust_mozprofilekHJCUe\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52663/devtools/browser/cfc816c7-c568-4431-b6e5-b6b090c061c4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gradescope.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gradescope.com."
+1677387664442	Marionette	INFO	Stopped listening on port 52670
+Dynamically enable window occlusion 1
+1677389512062	geckodriver	INFO	Listening on 127.0.0.1:52854
+1677389515122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\seanl\\AppData\\Local\\Temp\\rust_mozprofileGSqtig"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677389515543	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677389515548	Marionette	INFO	Listening on port 52862
+Read port: 52862
+WebDriver BiDi listening on ws://127.0.0.1:52855
+1677389515694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\seanl\\AppData\\Local\\Temp\\rust_mozprofileGSqtig\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52855/devtools/browser/9209836d-b800-4e1e-8f7e-85c9f91cb8d5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gradescope.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.gradescope.com."
+1677389536057	Marionette	INFO	Stopped listening on port 52862
+Dynamically enable window occlusion 1
